@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Function for catching matrix data
 
 makeCacheMatrix <- function(x = matrix()) {
 
